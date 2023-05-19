@@ -1,1 +1,1 @@
-Greenspan et al 2020 dealh with microbiomes in frogs
+Greenspan et al 2020 dealt with microbiomes in frogs
