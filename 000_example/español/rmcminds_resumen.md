@@ -1,1 +1,1 @@
-En el año 1990, un articulo se publicó en el diario <em>American Scientist</em> (cientifico americano), por George D. Gopen y Judith A. Swan. Con el titulo 'The Science of Scientific Writing' (la ciencia de la escrita cientifica), estableció un marco por la escrita cientifica que sique siendo útil hoy.
+En el año 1990, un articulo se publicó en el revista ceintifica "American Scientist", por los autores George D. Gopen y Judith A. Swan. Este reporte estableció el marco teórico para la dilvugación científica, que sigue siendo que sique siendo útil hoy.
