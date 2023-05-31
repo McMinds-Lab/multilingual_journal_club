@@ -1,1 +1,2 @@
 Write a short summary of [Gopen and Swan 1990](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) in your target language
+Free online spanish course during the summer. If you want to obtain a certificate and unlimited access to the coursework their is a $25 fee. Link to this: https://docs.google.com/forms/d/e/1FAIpQLSfQ8r7CcdvGJPQy-vk6Ct_CC7t0UNmVVkcFovn-fz5bCQD0Ng/viewform 
