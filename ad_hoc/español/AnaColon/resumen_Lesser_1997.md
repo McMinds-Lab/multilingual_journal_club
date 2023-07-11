@@ -22,4 +22,4 @@ Un bajo porcentaje de células gastrodérmicas con zooxantelas en el estudio fue
 
 La evidencia presentada en este estudio encontró que el blanqueamiento de arrecifes de coral debido a temperaturas elevadas puede ser prevenido con antioxidantes. Esto apoya a un papel para estrés oxidativo como un mecanismo subyacente para el blanqueamiento inducido por temperatura. 
 
-Lesser, M. Oxidative stress causes coral bleaching during exposure to elevated temperatures. Coral Reefs 16, 187–192 (1997). https://doi.org/10.1007/s003380050073
+Lesser, M. Oxidative stress causes coral bleaching during exposure to elevated temperatures. *Coral Reefs* 16, 187–192 (1997). https://doi.org/10.1007/s003380050073
