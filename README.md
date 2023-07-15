@@ -17,7 +17,7 @@ Note: *if you're not comfortable with GitHub, and learning it on top of language
 
 You can always add new work or edits by forking the repository and submitting a pull request to this one.
 
-:envelope: If you'd like to be able to approve pull requests, send [Dr. McMinds](https://github.com/rmcminds) a [message](mailto:r.mcminds@thecnidaegritty.org) to get added to the group! I'm happy to cede some authority on this, especially for approval of any content in a language other than English. I think most active users will want this ability so they can work essentially independently with a buddy.
+:envelope: If you'd like to be able to approve pull requests, send Dr. McMinds a [message](mailto:r.mcminds@thecnidaegritty.org) to get added to the group! I'm happy to cede some authority on this, especially for approval of any content in a language other than English. I think most active users will want this ability so they can work essentially independently with a buddy.
 
 ---
 
