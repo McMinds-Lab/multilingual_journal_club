@@ -6,11 +6,18 @@ Participation is hoped to:
 1. foster a sense of community
 2. provide a forum to discuss the latest science
 3. improve our language and communication skills
-4. familiarize us with version control and collaboration on GitHub!
+4. provide content that can communicate science to the public
+5. familiarize us with version control and collaboration on GitHub!
+
+# Getting started
+
+Note: *if you're not comfortable with GitHub, and learning it on top of language and science is too confusing, feel free to look at the articles, write your reviews, and exchange them with a partner via any means you're comfortable with.*
 
 ---
 
-Note: *if you're not comfortable with GitHub, and learning it on top of language and science is too confusing, feel free to look at the articles, write your reviews, and exchange them with a partner via any means you're comfortable with.*
+You can always add new work or edits by forking the repository and submitting a pull request to this one.
+
+:envelope: If you'd like to be able to approve pull requests, send [Dr. McMinds](https://github.com/rmcminds) a [message](mailto:r.mcminds@thecnidaegritty.org) to get added to the group! I'm happy to cede some authority on this, especially for approval of any content in a language other than English. I think most active users will want this ability so they can work essentially independently with a buddy.
 
 ---
 
@@ -27,10 +34,6 @@ Note: *this repo enables asynchronous participation, as well - just pick a unit,
 The point of this activity is to offer and accept critique of our language and communication skills. Please do not be afraid to make mistakes, and try not to be offended when critiques are offered! Be friendly, everyone! Also, keep in mind the various purposes of different language styles - 'misuse' of language can sometimes lead to misunderstanding of content, but often, there are arbitrary rules that do not contribute to ambiguity. Try to work together to understand not only what is correct, but why. That will lead to a more solid understanding of language.
 
 ## Instructions
-You can always add new work or edits by forking the repository and making a pull equest. 
-:envelope: If you'd like to be able to approve pull requests, send [rmcminds](https://github.com/rmcminds) a [message](mailto:r.mcminds@thecnidaegritty.org) to get added to the group! I'm happy to cede some authority on this, especially for approval of any content in a language other than English.
-
----
 
 To submit a writing: 
 - Choose a unit and read the prompt.
@@ -46,7 +49,7 @@ To submit a writing:
 
 ---
 
-To provide feedback on someone else's work, please directly edit their file by navigating to it in the browser and clicking the pencil-shaped 'edit' button. Your changes will need to be 'committed' in the same way as new-file creation - you will have to commit your changes to a branch other than 'main', and then create a pull request if you want to merge your changes into the main branch.
+To provide feedback on someone else's work, either provide inline comments and edits via the pull request, or directly edit their file by navigating to it in the browser and clicking the pencil-shaped 'edit' button. Your changes will need to be 'committed' in the same way as new-file creation - you will have to commit your changes to a branch other than 'main', and then create a pull request if you want to merge your changes into the main branch.
 
 When creating pull requests, you have the option to 'assign' the request to someone - if you do this, they will get a notification and can review your changes, approve the request, and complete the merge. The main branch will then have the updated version of the writing, and you can use the compare tool to see the differences between the old version and the new one.
 
