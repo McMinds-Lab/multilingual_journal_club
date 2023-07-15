@@ -27,7 +27,8 @@ Note: *this repo enables asynchronous participation, as well - just pick a unit,
 The point of this activity is to offer and accept critique of our language and communication skills. Please do not be afraid to make mistakes, and try not to be offended when critiques are offered! Be friendly, everyone! Also, keep in mind the various purposes of different language styles - 'misuse' of language can sometimes lead to misunderstanding of content, but often, there are arbitrary rules that do not contribute to ambiguity. Try to work together to understand not only what is correct, but why. That will lead to a more solid understanding of language.
 
 ## Instructions
-:envelope: Send [rmcminds](https://github.com/rmcminds) a message to get added to the group!
+You can always add new work or edits by forking the repository and making a pull equest. 
+:envelope: If you'd like to be able to approve pull requests, send [rmcminds](https://github.com/rmcminds) a [message](mailto:r.mcminds@thecnidaegritty.org) to get added to the group! I'm happy to cede some authority on this, especially for approval of any content in a language other than English.
 
 ---
 
