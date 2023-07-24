@@ -1,4 +1,4 @@
-El blanqueamiento de arrecifes de coral es la explosión masiva de dinoflagelados o el perdimiento de los pigmentos fotosintéticos en las zooxantelas. Blanqueamiento ocurre cuando la temperatura sube (lo más mínimo de 1-2 °C) de la temperatura media más alta, radiación UV, cambios en la salinidad, sedimentación pesada, y exposición a contaminantes. 
+El blanqueamiento de arrecifes de coral es la expulsión de dinoflagelados o el perdimiento de sus pigmentos fotosintéticos. Blanqueamiento ocurre cuando la temperatura sube (lo más mínimo de 1-2 °C) de la temperatura media más alta, radiación UV, cambios en la salinidad, sedimentación pesada, y exposición a contaminantes. 
 
 Muchos arrecifes de coral están en ambientes de su límite superior de temperatura.
 
