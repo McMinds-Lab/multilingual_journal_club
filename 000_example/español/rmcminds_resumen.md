@@ -1,1 +1,1 @@
-En el año 1990, un artículo se publicó en el revista científica <em>American Scientist</em> (científico americano), por los autores George D. Gopen y Judith A. Swan. Este reporte estableció un marco teórico para la dilvugación científica, que sigue siendo que sique siendo útil hoy.
+En el año 1990, un artículo se publicó en el revista científica <em>American Scientist</em> (científico americano), por los autores George D. Gopen y Judith A. Swan. Este reporte estableció un marco teórico para la dilvugación científica, que sigue siendo útil hoy.
