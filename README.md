@@ -64,6 +64,8 @@ Feel free to create new Discussions or Issues if you need help with anything!
 ## Resources
 - [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 
+- [Change iNaturalist settings to show organism names in multiple languages](https://forum.inaturalist.org/t/you-can-now-choose-up-to-three-common-name-lexicons-to-view-at-once/)
+
 - www.linguee.com - Ryan's favorite website to see natural one-to-one translations between languages (using examples in context helps you decide whether a given translation is correct, as opposed to blindly trusting an AI translator)
 
 - [Markdown guide](https://www.markdownguide.org/basic-syntax/) to wean you off of proprietary and overcomplicated Word or Google Docs (this README is written in markdown)
