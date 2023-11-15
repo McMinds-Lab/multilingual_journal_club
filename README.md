@@ -1,6 +1,6 @@
 # The Multilingual Journal Club
 
-All participants in the club read the same peer-reviewed article every unit (maybe every week?). We then write a summary of the article, targeted to a public audience, in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. Some units may involve alternate writing prompts that are not article reviews.
+Groups of learners read the same peer-reviewed article and a prompt. We then write a summary or analysis of the article in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. Some prompts may be creative and not involve article reviews.
 
 Participation is hoped to:
 1. foster a sense of community
@@ -21,13 +21,13 @@ You can always add new work or edits by forking the repository and submitting a 
 
 ---
 
-Currently, the repo is organized such that every unit has its own directory, organized by year (e.g. `multilingual_journal_club/units/2023/unit_2023_01/`). A readme in this directory should point us to the unit's article and/or writing prompt. Writings are organized in sub-directories for each target language. Additional files may be added for summary thoughts from each group, pointing out important concepts that they note based on their corrections and discussion.
+Currently, the repo is organized such that prompts are organized by year, then source material language (e.g. `multilingual_journal_club/prompts/2023/english/prompt_2023_01/`). A readme in this directory should include the writing prompt and a link to the source material. Writings are organized in sub-directories for each target language. Additional files may be added for summary thoughts from each group, pointing out important concepts that they note based on their corrections and discussion.
 
-Writings should be created in this repository as plain text or markdown format, and other participants should review and edit assigned writings with corrections or improvements to make them more natural or impactful. Pairs or small groups of participants with complementary language skills should meet regularly (again, maybe weekly?) to discuss their writings and edits, and to have the opportunity to improve their spoken language. The entire group may meet on a longer interval such as monthly to continue discussion of favorite articles or language points.
+Writings should be created in this repository as plain text or markdown format, and other participants should review and edit assigned writings with corrections or improvements to make them more natural or impactful. Pairs or small groups of participants with complementary language skills can meet regularly to discuss their writings and edits, and to have the opportunity to improve their spoken language. The entire group may meet on a longer interval to continue discussion of favorite articles or language points.
 
 ---
 
-Note: *this repo enables asynchronous participation, as well - just pick a unit, respond to the writing prompt, upload your writing, and maybe create an 'issue' or 'pull request' to alert the group so someone can review and edit it. No real need to participate in discussions, if you don't want.*
+Note: *this repo enables asynchronous participation, as well - just pick a prompt, upload your writing, and maybe create an 'issue' or 'pull request' to alert the group so someone can review and edit it. No real need to participate in discussions, if you don't want.*
 
 ---
 
@@ -36,8 +36,8 @@ The point of this activity is to offer and accept critique of our language and c
 ## Instructions
 
 To submit a writing: 
-- Choose a unit and read the prompt.
-- Navigate in the browser to the target language directory within that unit (e.g. `multilingual_journal_club/000_example/english/`).
+- Choose a prompt.
+- Navigate in the browser to the target language directory within the approporiate directory (e.g. `multilingual_journal_club/000_example/english/`).
 - Click `add file`, then `create new file`.
 - Enter your writing.
 
