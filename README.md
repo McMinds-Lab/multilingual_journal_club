@@ -1,4 +1,5 @@
 # The Multilingual Journal Club
+[![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/McMinds-Lab/multilingual_journal_club/blob/main/README.es.md)
 
 Groups of learners read the same peer-reviewed article and a prompt. We then write a summary or analysis of the article in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. Some prompts may be creative and not involve article reviews.
 
