@@ -74,3 +74,5 @@ Feel free to create new Discussions or Issues if you need help with anything!
 - [GitHub for scientists](https://osf.io/preprints/metaarxiv/x3p2q/), a guide to using GitHub for non-code projects in science (like even collaborating on manuscripts!)
 
 - https://youtube.com/@DrGeoffLindsey - a fun channel Ryan found that can help understand how sounds differ among languages
+  
+- [iNatle](https://thecnidaegritty.org/iNatle/) - a game created by Ryan where you can learn what organisms are called in other languages.
